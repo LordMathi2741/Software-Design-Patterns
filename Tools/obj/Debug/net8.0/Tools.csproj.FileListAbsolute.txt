@@ -1,0 +1,12 @@
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/bin/Debug/net8.0/Tools.deps.json
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/bin/Debug/net8.0/Tools.dll
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/bin/Debug/net8.0/Tools.pdb
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/Debug/net8.0/Tools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/Debug/net8.0/Tools.AssemblyInfoInputs.cache
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/Debug/net8.0/Tools.AssemblyInfo.cs
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/Debug/net8.0/Tools.csproj.CoreCompileInputs.cache
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/Debug/net8.0/Tools.sourcelink.json
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/Debug/net8.0/Tools.dll
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/Debug/net8.0/refint/Tools.dll
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/Debug/net8.0/Tools.pdb
+/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/Debug/net8.0/ref/Tools.dll

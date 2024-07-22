@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Design-Patterns/Design-Patterns.csproj": {}
+  },
+  "projects": {
+    "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Design-Patterns/Design-Patterns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Design-Patterns/Design-Patterns.csproj",
+        "projectName": "Design-Patterns",
+        "projectPath": "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Design-Patterns/Design-Patterns.csproj",
+        "packagesPath": "/Users/lordmathi2741/.nuget/packages/",
+        "outputPath": "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Design-Patterns/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lordmathi2741/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/Tools.csproj": {
+                "projectPath": "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/Tools.csproj",
+        "projectName": "Tools",
+        "projectPath": "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/Tools.csproj",
+        "packagesPath": "/Users/lordmathi2741/.nuget/packages/",
+        "outputPath": "/Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lordmathi2741/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
