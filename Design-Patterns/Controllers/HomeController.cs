@@ -1,6 +1,8 @@
 using System.Diagnostics;
+using Design_Patterns.Configuration;
 using Microsoft.AspNetCore.Mvc;
 using Design_Patterns.Models;
+using Microsoft.Extensions.Options;
 using Tools;
 
 namespace Design_Patterns.Controllers;
@@ -8,21 +10,23 @@ namespace Design_Patterns.Controllers;
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private readonly IOptions<PathConfig> _pathConfig;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger, IOptions<PathConfig> pathConfig)
     {
         _logger = logger;
+        _pathConfig = pathConfig;
     }
 
     public IActionResult Index()
     {
-        Log.GetInstance("log.txt").Save("Index page visited");
+        Log.GetInstance(_pathConfig.Value.Path).Save("Index page visited");
         return View();
     }
 
     public IActionResult Privacy()
     {
-        Log.GetInstance("log.txt").Save("Privacy page visited");
+        Log.GetInstance(_pathConfig.Value.Path).Save("Privacy page visited");
         return View();
     }
 

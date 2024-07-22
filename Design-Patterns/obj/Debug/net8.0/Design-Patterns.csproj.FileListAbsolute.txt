@@ -33,3 +33,38 @@
 /Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.pdb
 /Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.genruntimeconfig.cache
 /Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Design-Patterns/obj/Debug/net8.0/ref/Design-Patterns.dll
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/appsettings.Development.json
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/appsettings.json
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/Design-Patterns.staticwebassets.runtime.json
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/Design-Patterns
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/Design-Patterns.deps.json
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/Design-Patterns.runtimeconfig.json
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/Design-Patterns.dll
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/Design-Patterns.pdb
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/Tools.dll
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/bin/Debug/net8.0/Tools.pdb
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.csproj.AssemblyReference.cache
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.AssemblyInfoInputs.cache
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.AssemblyInfo.cs
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.csproj.CoreCompileInputs.cache
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.MvcApplicationPartsAssemblyInfo.cache
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.RazorAssemblyInfo.cache
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.RazorAssemblyInfo.cs
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.sourcelink.json
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/staticwebassets.build.json
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/staticwebassets.development.json
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/staticwebassets/msbuild.Design-Patterns.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/staticwebassets/msbuild.build.Design-Patterns.props
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Design-Patterns.props
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Design-Patterns.props
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/scopedcss/bundle/Design-Patterns.styles.css
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/scopedcss/projectbundle/Design-Patterns.bundle.scp.css
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.csproj.CopyComplete
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.dll
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/refint/Design-Patterns.dll
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.pdb
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/Design-Patterns.genruntimeconfig.cache
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Design-Patterns/obj/Debug/net8.0/ref/Design-Patterns.dll

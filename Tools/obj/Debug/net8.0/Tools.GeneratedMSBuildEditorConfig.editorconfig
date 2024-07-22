@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tools
-build_property.ProjectDir = /Users/lordmathi2741/Documents/Proyects/.NET/Design-Patterns/Tools/
+build_property.ProjectDir = /Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Tools/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

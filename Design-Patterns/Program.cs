@@ -1,8 +1,10 @@
+using Design_Patterns.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.Configure<PathConfig>(builder.Configuration.GetSection("PathConfig"));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
