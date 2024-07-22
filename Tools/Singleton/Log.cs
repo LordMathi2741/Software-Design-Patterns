@@ -1,4 +1,4 @@
-﻿namespace Tools;
+﻿namespace Tools.Singleton;
 
 public class Log
 {

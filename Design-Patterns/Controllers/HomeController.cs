@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Design_Patterns.Models;
 using Microsoft.Extensions.Options;
 using Tools;
+using Tools.Singleton;
 
 namespace Design_Patterns.Controllers;
 
