@@ -13,4 +13,12 @@ public class SaleDetailController : Controller
         ViewBag.totalMobile = total + mobileSale.Earn(total);
         return View();
     }
+    
+    public IActionResult InternetSale(decimal total)
+    {
+        InternetSaleFactory internetSaleFactory = new InternetSaleFactory(0.10m);
+        var internetSale = internetSaleFactory.CreateSale();
+        ViewBag.totalInternet = total - internetSale.Earn(total);
+        return View();
+    }
 }
