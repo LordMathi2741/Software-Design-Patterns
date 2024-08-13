@@ -22,3 +22,4 @@
 /Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Tools/obj/Debug/net8.0/refint/Tools.dll
 /Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Tools/obj/Debug/net8.0/Tools.pdb
 /Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Tools/obj/Debug/net8.0/ref/Tools.dll
+/Users/lordmathi2741/Documents/Proyects/ASP NET /Software-Design-Patterns/Tools/obj/Debug/net8.0/Tools.csproj.AssemblyReference.cache
