@@ -1,10 +1,14 @@
 using Design_Patterns.Configuration;
 using Tools.Factory;
+using Tools.Repository;
+using Tools.UnitOfWork;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IBeerRepository, BeerRepository>();
+builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
 builder.Services.Configure<PathConfig>(builder.Configuration.GetSection("PathConfig"));
 builder.Services.AddTransient((factory) => new InternetSaleFactory(builder.Configuration.GetSection("PathConfig").GetValue<decimal>("LocalPercentage")));
 

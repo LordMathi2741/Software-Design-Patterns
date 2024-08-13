@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 using Design_Patterns.Models;
 using Microsoft.Extensions.Options;
 using Tools;
+using Tools.Models;
+using Tools.Repository;
 using Tools.Singleton;
 
 namespace Design_Patterns.Controllers;
